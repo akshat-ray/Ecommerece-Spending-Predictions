@@ -17,10 +17,12 @@ Therefore, the recommendation is to prioritize Mobile App enhancements.
 
 <img width="917" height="920" src="https://github.com/user-attachments/assets/0ce3e815-4b62-4e71-9a34-79f165da6c00" />
 <img width="702" height="633" src="https://github.com/user-attachments/assets/712b440c-f053-42de-b6cf-81a43899f746" />
-<p align="center">
-  <img width="717" height="551" src="https://github.com/user-attachments/assets/9532fcd4-d77e-41a3-9569-be42fd2e4c05" width="45%" />
-  <img width="711" height="552" src="https://github.com/user-attachments/assets/51f85f2c-04fc-400c-b444-e10468141878" width="45%" />
-</p>
+<table>
+  <tr>
+    <td><img width="717" height="551" src="https://github.com/user-attachments/assets/9532fcd4-d77e-41a3-9569-be42fd2e4c05" width="400" /></td>
+    <td><img width="711" height="552" src="https://github.com/user-attachments/assets/51f85f2c-04fc-400c-b444-e10468141878" width="400" /></td>
+  </tr>
+</table>
 
 <img width="353" height="102" src="https://github.com/user-attachments/assets/867a61a7-4f2c-4fd2-9f66-d7c50f13e6a8" />
 <img width="922" height="107" src="https://github.com/user-attachments/assets/1d4740be-1ed0-4bf8-ade3-11d05c10b2cf" />
