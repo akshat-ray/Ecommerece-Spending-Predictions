@@ -19,8 +19,8 @@ Therefore, the recommendation is to prioritize Mobile App enhancements.
 <img width="702" height="633" src="https://github.com/user-attachments/assets/712b440c-f053-42de-b6cf-81a43899f746" />
 <table>
   <tr>
-    <td><img width="717" height="551" src="https://github.com/user-attachments/assets/9532fcd4-d77e-41a3-9569-be42fd2e4c05" width="48%" /></td>
-    <td><img width="711" height="552" src="https://github.com/user-attachments/assets/51f85f2c-04fc-400c-b444-e10468141878" width="48%" /></td>
+    <td><img src="https://github.com/user-attachments/assets/9532fcd4-d77e-41a3-9569-be42fd2e4c05" width="48%" /></td>
+    <td><img src="https://github.com/user-attachments/assets/51f85f2c-04fc-400c-b444-e10468141878" width="48%" /></td>
   </tr>
 </table>
 
